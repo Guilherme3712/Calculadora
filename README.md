@@ -15,6 +15,9 @@ npx expo install react-native-web@~0.19.6 react-dom@18.2.0 @expo/webpack-config@
 4- Inicialize o projeto com<br>
 npm run web
 
+## Funcionalidades
+Realize as 4 operações básicas
+
 <h2>Imagem da aplicação</h2>
 
 ![Calculadora](https://github.com/Guilherme3712/Calculadora/assets/128616640/2d3e9771-f21e-4a6e-82ca-a2491e05f24d)
