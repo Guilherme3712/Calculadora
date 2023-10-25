@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora-React
 Calculadora simples feita em React-Native
 
 <h2>Como inicializar o projeto</h2>
